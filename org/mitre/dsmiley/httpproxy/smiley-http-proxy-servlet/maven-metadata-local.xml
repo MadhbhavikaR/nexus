@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mitre.dsmiley.httpproxy</groupId>
+  <artifactId>smiley-http-proxy-servlet</artifactId>
+  <versioning>
+    <release>1.9.1</release>
+    <versions>
+      <version>1.9.1</version>
+    </versions>
+    <lastUpdated>20161121125140</lastUpdated>
+  </versioning>
+</metadata>
